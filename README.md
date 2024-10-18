@@ -4,6 +4,7 @@
 This project performs Sentiment Analysis on Amazon product reviews using machine learning models and NLP techniques. The analysis aims to classify reviews into positive, neutral, or negative sentiments based on the star ratings provided by users.
 
 # Dataset
+The dataset is collected by web scrapring using Amazon Review Export.
 - **Star-rating:** The rating given by the reviewer.
 
 - **Name:** The name of the reviewer.
